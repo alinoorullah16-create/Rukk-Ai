@@ -1,0 +1,5 @@
+{
+  "name": " Rukk Bot - AI Assistant",
+  "description": "An AI-powered chat assistant that provides helpful and conversational responses to user queries, built with React and the Gemini API.",
+  "requestFramePermissions": []
+}
